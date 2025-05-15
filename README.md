@@ -9,6 +9,7 @@ This repository contains the setup for Week 1 of 10 Academy's challenges.
 - Git
 - Virtualenv (optional)
 
+
 ### Steps to Reproduce the Environment
 1. **Clone the repository**:
    ```bash
